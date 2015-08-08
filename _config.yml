@@ -1,0 +1,11 @@
+# Site settings
+title: Advoid - avoids ads!
+email: info@advoid.net
+description: "The device for blocking ads and speeding up all devices in your network." 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: advoid
+github_username:  advoid
+
+# Build settings
+markdown: kramdown
