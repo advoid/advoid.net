@@ -3,4 +3,4 @@ run:
 
 release:
 	jekyll b
-	rsync -avr --delete ./_site/ b.systemchaos.org:/var/www/advoid.net/www/htdocs/
+	rsync -avr --delete ./_site/ advoid.net:/var/www/advoid.net/www/htdocs/
