@@ -1,14 +1,11 @@
 ---
-layout: default
+layout: page
 title: News 
 permalink: /news/
 metasub: news
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -20,7 +17,5 @@ metasub: news
       </li>
     {% endfor %}
   </ul>
-
   <p class="rss-subscribe">subscribe <a href="{{ "/news/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
