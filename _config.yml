@@ -1,5 +1,4 @@
-# Site settings
-title: Advoid - avoid ads!
+title: advoid - avoid ads!
 email: info@advoid.net
 description: "The device for blocking ads and speeding up all devices in your network." 
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -9,6 +8,4 @@ github_username:  advoid
 paginate:      5
 paginate_path: "news/page:num/"
 permalink:     /news/:year/:month/:day/:title/
-
-# Build settings
 markdown: kramdown

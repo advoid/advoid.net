@@ -3,7 +3,7 @@
  */
 .site-header {
     border-top: 5px solid $green-color;
-    border-bottom: 1px solid $grey-color-light;
+    border-bottom: 1px solid $green-color;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -92,7 +92,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 1px solid $green-color;
     padding: $spacing-unit 0;
 }
 
@@ -163,6 +163,7 @@
  */
 .page-content {
     padding: $spacing-unit 0;
+    background-color: #fff;
 }
 
 .page-heading {
