@@ -10,7 +10,7 @@ permalink: /faq/
 
 <h2>How does advoid work?</h2>
 
-<p>advoid is a RaspberryPi and a set of pre-installed scripts and programs which sets up the RaspberryPi to provide ad-blocking and malware protection features.</p>
+<p>advoid is a Raspberry Pi and a set of pre-installed scripts and programs which sets up the Raspberry Pi to provide ad-blocking and malware protection features.</p>
 
 <h2>Is advoid protecting me actively against malware?</h2>
 
@@ -30,7 +30,7 @@ permalink: /faq/
 
 <h2>What hardware is advoid built with?</h2>
 
-<p>advoid is built using the RaspberryPi as computing device.</p>
+<p>advoid is built using the Raspberry Pi as computing device.</p>
 
 <h2>Which operating system is advoid running on?</h2>
 
@@ -38,4 +38,4 @@ permalink: /faq/
 
 <h2>Can I build advoid by myself?</h2>
 
-<p>Yes. Since advoid is based on the RaspberryPi device and the source code will be released unter the terms of the GPL license version 2, you will be able to build your own advoid device.</p>
+<p>Yes. Since advoid is based on the Raspberry Pi device and our source code will be released unter the terms of the GPL license version 2, you will be able to build your own advoid device.</p>
