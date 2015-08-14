@@ -34,7 +34,7 @@ permalink: /faq/
 
 <h2>Which operating system is advoid running on?</h2>
 
-<p>advoid runs Gentoo Linux using the Raspbian Kernel.</a>
+<p>advoid runs Gentoo Linux using the Raspbian Kernel.</p>
 
 <h2>Can I build advoid by myself?</h2>
 

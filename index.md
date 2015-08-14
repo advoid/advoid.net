@@ -4,11 +4,11 @@ title: Welcome
 metasub: home
 ---
 
-<p>This is advoid.net! The place where ads are void...</p>
+<p><img src="/images/rp.jpg" style="float:right;">This is advoid.net! The place where ads are void...</p>
 
 <p>Take a look at the <a href="/faq/">FAQ</a> page to get more information.</p>
 
-<p>More to come... ;)</p>
+<p><a href="/about/">Read more &raquo;</a></p>
 
 <h2>Latest News</h2>
 
