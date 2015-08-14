@@ -12,6 +12,10 @@ permalink: /faq/
 
 <p>advoid is a Raspberry Pi and a set of pre-installed scripts and programs which sets up the Raspberry Pi to provide ad-blocking and malware protection features.</p>
 
+<h2>Will advoid protect me against SPAM emails?</h2>
+
+<p>No. advoid ist not an email SPAM blocking / filtering device.</p>
+
 <h2>Is advoid protecting me actively against malware?</h2>
 
 <p>No. advoid is not scanning content nor is providing file inspection tools like anti virus software. advoid just blacklists sources known for distributing malware. You still will be able to access this malware for download.</p> 
