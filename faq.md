@@ -10,15 +10,19 @@ permalink: /faq/
 
 <h2>How does advoid work?</h2>
 
-<p>advoid is a set of scripts and programs that sets up a RaspberryPi to provide ad-blocking and malware protection features.</p>
+<p>advoid is a RaspberryPi and a set of pre-installed scripts and programs which sets up the RaspberryPi to provide ad-blocking and malware protection features.</p>
 
 <h2>Is advoid protecting me actively against malware?</h2>
 
-<p>No. advoid is not scanning content nor is providing file inspection tools like anti varus software. advoid just blacklists sources known for distributing malware. You still will be able to access this malware for download.</p> 
+<p>No. advoid is not scanning content nor is providing file inspection tools like anti virus software. advoid just blacklists sources known for distributing malware. You still will be able to access this malware for download.</p> 
 
 <h2>Is advoid working when surfing the web using HTTPS?</h2>
 
 <p>Yes. advoid is not inspecting and / or manupilating network traffic so encryption doesn't matter. We highly recommend to use HTTPS when surfing the web.</p>
+
+<h2>Will adblock with my smartphone too?</h2>
+
+<p>Yes. advoid will work for any device in your network. E.g. PC, laptop, smartphone, TV etc.</p>
 
 <h2>Is advoid free?</h2>
 
