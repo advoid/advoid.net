@@ -21,7 +21,7 @@ permalink: /about/
 * Display interface (DSI)
 * Micro SD card slot
 * VideoCore IV 3D graphics core
-* Gentoo based Linux operating system running a Raspbian Kernel >= 4.0
+* Gentoo based operating system running a Raspbian Linux Kernel >= 4.0
 
 <p>Because it has an ARMv7 processor, it can run the full range of ARM GNU/Linux distributions, including OpenWrt, Gentoo, Debian (Raspbian), Snappy Ubuntu Core, as well as Microsoft Windows 10.</p>
 
