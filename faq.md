@@ -20,7 +20,7 @@ permalink: /faq/
 
 <p>Yes. advoid is not inspecting and / or manupilating network traffic so encryption doesn't matter. We highly recommend to use HTTPS when surfing the web.</p>
 
-<h2>Will adblock with my smartphone too?</h2>
+<h2>Will advoid block ads on my smartphone too?</h2>
 
 <p>Yes. advoid will work for any device in your network. E.g. PC, laptop, smartphone, TV etc.</p>
 
