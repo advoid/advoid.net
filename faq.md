@@ -3,3 +3,35 @@ layout: page
 title: FAQ
 permalink: /faq/
 ---
+
+<h2>Whats is advoid?</h2>
+
+<p>advoid is a device based on open source hardware and open source software for blocking ads in a private network.</p>
+
+<h2>How does advoid work?</h2>
+
+<p>advoid is a set of scripts and programs that sets up a RaspberryPi to provide ad-blocking and malware protection features.</p>
+
+<h2>Is advoid protecting me actively against malware?</h2>
+
+<p>No. advoid is not scanning content nor is providing file inspection tools like anti varus software. advoid just blacklists sources known for distributing malware. You still will be able to access this malware for download.</p> 
+
+<h2>Is advoid working when surfing the web using HTTPS?</h2>
+
+<p>Yes. advoid is not inspecting and / or manupilating network traffic so encryption doesn't matter. We highly recommend to use HTTPS when surfing the web.</p>
+
+<h2>Is advoid free?</h2>
+
+<p>Yes, advoid is free. The software used is completely based on free and open source software. All code developed by us will be available at GitHub after the product release.</p>
+
+<h2>What hardware is advoid built with?</h2>
+
+<p>advoid is built using the RaspberryPi as computing device.</p>
+
+<h2>Which operating system is advoid running on?</h2>
+
+<p>advoid runs Gentoo Linux using the Raspbian Kernel.</a>
+
+<h2>Can I build advoid by myself?</h2>
+
+<p>Yes. Since advoid is based on the RaspberryPi device and the source code will be released unter the terms of the GPL license version 2, you will be able to build your own advoid device.</p>
