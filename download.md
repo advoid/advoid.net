@@ -10,4 +10,4 @@ permalink: /download/
 
 <h2>Code</h2>
 
-<p>All public available code is found on <a href="https://github.com/advoid">https://github.com/advoid</a>.</p>
+<p>All public available code is found on <a href="https://github.com/advoid">https://github.com/advoid</a>. Be sure, all code will be public available at GitHub at some time.</p>
