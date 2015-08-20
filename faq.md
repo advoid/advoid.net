@@ -4,7 +4,7 @@ title: FAQ
 permalink: /faq/
 ---
 
-<h2>Whats is advoid?</h2>
+<h2>What is advoid?</h2>
 
 <p>advoid is a device based on open source hardware and open source software for blocking ads in a private network.</p>
 
