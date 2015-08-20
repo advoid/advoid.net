@@ -10,15 +10,23 @@ permalink: /faq/
 
 <h2>How does advoid work?</h2>
 
-<p>advoid is a Raspberry Pi and a set of pre-installed scripts and programs which sets up the Raspberry Pi to provide ad-blocking and malware protection features.</p>
+<p>advoid is a Raspberry Pi and a set of pre-installed scripts and programs which sets up the Raspberry Pi to provide ad-blocking and malware protection features based on host blacklisting.</p>
+
+<h2>Can I censor the Internet using advoid?</h2>
+
+<p>No! advoid is just a device in the network where the user decides to use it or not. advoid should not be used, and is not desigened, for censoring content. advoid is designed to avoid ads, malware and tracking sites. Sure, you can blacklist any site you want but the user still decides to use it or not.</p>
+
+<h2>Will advoid anonymize me when surfing the web?</h2>
+
+<p>No! advoid is not routing traffic so anonymizing using <a href="https://www.torproject.org/">Tor</a> or some VPN service is not part of advoid. We highly recommend to use Tor when surfing the Internet but you need to do this by yourself. advoid will not do that. Just use the <a href="https://www.torproject.org/projects/torbrowser.html.en">Tor-Browser-Bundle</a> for anonymous surfing.</p>
 
 <h2>Will advoid protect me against SPAM emails?</h2>
 
-<p>No. advoid ist not an email SPAM blocking / filtering device.</p>
+<p>No! advoid ist not an email SPAM blocking / filtering device.</p>
 
 <h2>Is advoid protecting me actively against malware?</h2>
 
-<p>No. advoid is not scanning content nor is providing file inspection tools like anti virus software. advoid just blacklists sources known for distributing malware. You still will be able to access this malware for download.</p> 
+<p>No. advoid is not scanning content nor is providing file inspection tools like anti virus software. advoid just blacklists sources known for distributing malware.</p>
 
 <h2>Is advoid working when surfing the web using HTTPS?</h2>
 
@@ -38,7 +46,7 @@ permalink: /faq/
 
 <h2>Which operating system is advoid running on?</h2>
 
-<p>advoid runs Gentoo Linux using the Raspbian Kernel.</p>
+<p>advoid runs Gentoo using the Raspbian Linux Kernel.</p>
 
 <h2>Can I build advoid by myself?</h2>
 
