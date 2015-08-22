@@ -4,7 +4,7 @@ title: Welcome
 metasub: home
 ---
 
-<p><img src="/images/rp.jpg" style="float:right;">This is advoid.net! The place where ads are void...</p>
+<p>This is advoid.net! The place where ads are void...</p>
 
 <p>Take a look at the <a href="/faq/">FAQ</a> page to get more information.</p>
 
