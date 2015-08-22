@@ -4,6 +4,16 @@ title: About
 permalink: /about/
 ---
 
+
+<h2>Features</h2>
+
+* A mostly ad free internet browsing experience.
+* Full speed access to the internet is not limited by advoid. Traffic is not routed thru advoid.
+* No delay because of content inspection.
+* Pageload speedup because of request minimizing.
+* No impact on HTTPS browsing.
+* Black- and whitelisting of hosts.
+
 <h2>Operational area</h2>
 
 <p>advoid is designed for home and small office use. advoid will easily do it's job for about 5 to 10 connected LAN clients. It's not easy to say how many clients are supported. It depends on the the "surf" behavior of each user.</p>
