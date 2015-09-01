@@ -11,3 +11,4 @@ permalink:     /news/:year/:month/:day/:title/
 markdown: kramdown
 tocTopTag: h2
 anchorPrefix: id
+showToggleButton: true
