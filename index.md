@@ -2,6 +2,7 @@
 layout: page
 title: Welcome
 metasub: home
+noToc: true
 ---
 
 <p>This is advoid.net! The place where ads are void...</p>
