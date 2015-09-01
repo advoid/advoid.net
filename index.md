@@ -14,8 +14,6 @@ metasub: home
 
 <p>Take a look at the <a href="/faq/">FAQ</a> page to get more information.</p>
 
-<p><a href="/about/">Read more &raquo;</a></p>
-
 <h2>Latest News</h2>
 
 <ul class="entries" style="list-style-type: circle;padding-left:20px;">
