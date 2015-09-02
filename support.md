@@ -18,4 +18,4 @@ permalink: /support/
 
 <h2>Wiki</h2>
 
-<p>Take a look at the <a href="https://github.com/advoid/documentation/wiki">advoid Wiki at GitHub</a>. This is the global advoid Wiki inside the advoid documenatation repository.</p>
+<p>Take a look at the <a href="https://github.com/advoid/documentation/wiki">advoid Wiki at GitHub</a>. This is the global advoid Wiki inside the advoid documentation repository.</p>
