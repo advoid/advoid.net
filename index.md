@@ -17,7 +17,7 @@ noToc: true
 
 <h2>Latest News</h2>
 
-<ul class="entries" style="list-style-type: circle;padding-left:20px;">
+<ul>
 {% for post in site.posts limit:4 %}
 <li>
   <a href="{{ post.url }}" title="{{ post.date | date: "%d %B %Y" }} - {{ post.title | truncatehtml }}">{{ post.date | date: "%d %B %Y" }} - {{ post.title | truncatehtml | truncate: 60 }}</a>
