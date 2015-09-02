@@ -6,11 +6,11 @@ permalink: /download/
 
 <h2>Files</h2>
 
-<h3>advoid:</h3>
+<h3>advoid</h3>
 
 <p>No files available yet.</p>
 
-<h3>Gentoo images:</h3>
+<h3>Gentoo images</h3>
 
 <p>For development we mirror the Gentoo stage3 image and the portage tree to minimize traffic at the original sources. These images are the base of advoid but we will update from time to time. Please use these images if you want to build advoid by yourself.</p>
 

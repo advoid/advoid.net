@@ -4,9 +4,9 @@ title: Support
 permalink: /support/
 ---
 
-<h2>Forum</h2>
+<h2>Bugs and Issues</h2>
 
-<p>A forum will be available but not before the product release.</p>
+<p>You'll find the <a href="https://github.com/advoid/advoid/issues">advoid bugtracker at GitHub</a>.</p>
 
 <h2>IRC</h2>
 
@@ -15,3 +15,7 @@ permalink: /support/
 <h2>Mailinglist</h2>
 
 <p>A mailinglist is on the way... This will be the primary channel for developers!</p>
+
+<h2>Wiki</h2>
+
+<p>Take a look at the <a href="https://github.com/advoid/documentation/wiki">advoid Wiki at GitHub</a>. This is the global advoid Wiki inside the advoid documenatation repository.</p>
