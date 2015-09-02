@@ -17,7 +17,10 @@ permalink: /download/
 <ul>
     <li><a href="/files/portage-20150819.tar.bz2">portage-20150819.tar.bz2</a></li>
     <li><a href="/files/stage3-armv6j_hardfp-20150730.tar.bz2">stage3-armv6j_hardfp-20150730.tar.bz2</a></li>
+    <li><a href="/files/stage3-armv7a_hardfp-20150730.tar.bz2">stage3-armv7a_hardfp-20150730.tar.bz2</a></li>
 </ul>
+
+<p>The original source of the stage3 files is: <a href="http://gentoo.osuosl.org/releases/arm/autobuilds/">http://gentoo.osuosl.org/releases/arm/autobuilds/</a>.
 
 <h2>Code</h2>
 
