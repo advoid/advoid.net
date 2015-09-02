@@ -10,5 +10,5 @@ paginate_path: "news/page:num/"
 permalink:     /news/:year/:month/:day/:title/
 markdown: kramdown
 tocTopTag: h2
-anchorPrefix: id
+anchorPrefix: ""
 showToggleButton: true
