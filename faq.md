@@ -16,6 +16,10 @@ permalink: /faq/
 
 <p>Yes, advoid is free. The software used is completely based on free and open source software. All code developed by us will be available at GitHub after the product release.</p>
 
+<h2>Can I buy a prebuilt advoid device somewhere?
+
+<p>Currently not. But we are planning build to order devices for "real" endusers. If advoid is in a productive state You will also be able to just buy preinstalled SD cards for just inserting them into a Raspberry Pi device.</p>
+
 <h2>Can I censor the Internet using advoid?</h2>
 
 <p>No! advoid is just a device in the network where the user decides to use it or not. advoid should not be used, and is not desigened, for censoring content. advoid is designed to avoid ads, malware and tracking sites. Sure, you can blacklist any site you want but the user still decides to use it or not.</p>
@@ -50,8 +54,8 @@ permalink: /faq/
 
 <h2>Which operating system is advoid running on?</h2>
 
-<p>advoid runs Gentoo using the Raspbian Linux Kernel.</p>
+<p>advoid runs Gentoo using the Raspbian GNU/Linux Kernel.</p>
 
 <h2>Can I build advoid by myself?</h2>
 
-<p>Yes. Since advoid is based on the Raspberry Pi device and our source code will be released unter the terms of the GPL license version 2, you will be able to build your own advoid device.</p>
+<p>Yes. Since advoid is based on the Raspberry Pi device and our source code will be released unter the terms of the GPL license version 2, you will be able to build your own advoid device. Take a look at the <a href="https://github.com/advoid">advoid project at GitHub</a> for more information.</p>
