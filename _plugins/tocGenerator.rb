@@ -4,8 +4,7 @@ require 'digest/md5'
 module Jekyll
   module TOCGenerator
     TOGGLE_HTML = '<div id="toctitle"><h2>%1</h2>%2</div>'
-    TOC_CONTAINER_HTML = '<div id="toc-container"><table class="toc" id="toc"><tbody><tr><td>%1<ul>%2</ul></td></tr></tbody></table></div>'
-    HIDE_HTML = '<span class="toctoggle">[<a id="toctogglelink" class="internal" href="#">%1</a>]</span>'
+    TOC_CONTAINER_HTML = '<div id="toc-container">%1<ul>%2</ul></div>'
 
    def toc_generate(html)
         # No Toc can be specified on every single page
