@@ -1,3 +1,7 @@
+# This code was originally written by Davide Ficano:
+# https://github.com/dafi/jekyll-toc-generator
+# Thank you for that!
+
 require 'nokogiri'
 require 'digest/md5'
 
