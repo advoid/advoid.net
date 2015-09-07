@@ -4,6 +4,10 @@ title: Support
 permalink: /support/
 ---
 
+<h2>Documentation</h2>
+
+<p>For detailed documentation take a look a the <a href="/documentation/">Documentation Page</a>
+
 <h2>Bugs and Issues</h2>
 
 <p>You'll find the <a href="https://github.com/advoid/advoid/issues">advoid bugtracker at GitHub</a>.</p>
