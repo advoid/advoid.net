@@ -59,7 +59,8 @@ module Jekyll
             sects.map.each do |sect|
                 inner_section += 1;
                 #anchor_id = anchor_prefix + toc_level.to_s + '-' + toc_section.to_s + '-' + inner_section.to_s
-                anchor_id = anchor_prefix + Digest::MD5.hexdigest(tag.text + sect.text);
+                anchor_id = anchor_prefix + Digest::SHA256.hexdigest(tag.text + sect.text);
+                anchor_id = anchor_id[0..5];
                 sect['id'] = "#{anchor_id}"
 
                 level_html += create_level_html(anchor_id,
@@ -74,7 +75,8 @@ module Jekyll
             end
 
             #anchor_id = anchor_prefix + toc_level.to_s + '-' + toc_section.to_s;
-            anchor_id = anchor_prefix + Digest::MD5.hexdigest(tag.text);
+            anchor_id = anchor_prefix + Digest::SHA256.hexdigest(tag.text);
+            anchor_id = anchor_id[0..5];
             tag['id'] = "#{anchor_id}"
 
             toc_html += create_level_html(anchor_id,
