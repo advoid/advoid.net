@@ -9,6 +9,19 @@ noToc: true
 
 <p>advoid is a device for blocking ad, tracking, malware sites based on DNS blacklisting. advoid just blocks a domain name by setting the IP address of that domain to advoid itself. Browsing the web will become faster and more exciting because of banned advertising on websites.</p>
 
+<h2>Features</h2>
+
+* A mostly ad free internet browsing experience.
+* Full speed access to the internet is not limited by advoid. Traffic is not routed thru advoid.
+* No delay because of content inspection.
+* Pageload speedup because of request minimizing.
+* No impact on HTTPS browsing.
+* Black- and whitelisting of hosts.
+
+<h2>Operational area</h2>
+
+<p>advoid is designed for home and small office use. advoid will easily do it's job for about 5 to 10 connected LAN clients. It's not easy to say how many clients are supported. It depends on the the "surf" behavior of each user.</p>
+
 <h3>How does it work?</h3>
 
 <p>There are people around the world wide web who provide /etc/hosts files for archieving the same goal. These hosts files could be imported into advoid to provide a DNS service in your local area network for blacklisting domains -- For all devices in your network. Thats all. Not more, not less... ;)</p>
