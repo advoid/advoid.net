@@ -22,7 +22,7 @@ permalink: /faq/
 
 <h2>Can I censor the Internet using advoid?</h2>
 
-<p>No! advoid is just a device in the network where the user decides to use it or not. advoid should not be used, and is not desigened, for censoring content. advoid is designed to avoid ads, malware and tracking sites. Sure, you can blacklist any site you want but the user still decides to use it or not.</p>
+<p>No! advoid is just a device in a network where the user decides to use it or not. advoid should not be used, and is not desigened for censoring content. advoid is designed to avoid ads, malware and tracking sites. Sure, you can blacklist any site you want but the user still decides to use advoid or not.</p>
 
 <h2>Will advoid anonymize me when surfing the web?</h2>
 
