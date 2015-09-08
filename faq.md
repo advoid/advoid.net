@@ -6,7 +6,7 @@ permalink: /faq/
 
 <h2>What is advoid?</h2>
 
-<p>advoid is a device based on open source hardware and open source software for blocking ads in a private network.</p>
+<p>advoid is a device based on open source hardware and open source software for blocking ads, malware and tracking sites in a local network.</p>
 
 <h2>How does advoid work?</h2>
 
@@ -18,7 +18,7 @@ permalink: /faq/
 
 <h2>Can I buy a prebuilt advoid device somewhere?
 
-<p>Currently not. But we are planning build to order devices for "real" endusers. If advoid is in a productive state You will also be able to just buy preinstalled SD cards for just inserting them into a Raspberry Pi device.</p>
+<p>Currently not. But, we are planning "build to order" devices for endusers. If advoid is in a stable state you will also be able to buy preinstalled SD cards for just inserting them into a Raspberry Pi device. </p>
 
 <h2>Can I censor the Internet using advoid?</h2>
 
