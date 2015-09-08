@@ -7,7 +7,7 @@ noToc: true
 
 <p>This is advoid.net! The place where ads are void...</p>
 
-<p>advoid is a device for blocking ad, tracking, malware sites based on DNS blacklisting. advoid just blocks a domain name by setting the IP address of that domain to advoid itself. Browsing the web will become faster and more exciting because of banned advertising on websites.</p>
+<p>advoid is a device for blocking ad, tracking and malware sites based on DNS blacklisting. advoid just blocks a domain by setting the IP address of that domain to advoid itself, the web request will fail and not wanted content will not be loaded. Browsing the web will become faster and more exciting...</p>
 
 <h2>Features</h2>
 
