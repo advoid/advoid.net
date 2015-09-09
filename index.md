@@ -12,7 +12,7 @@ noToc: true
 <h2>Features</h2>
 
 * A mostly ad free internet browsing experience.
-* Full speed access to the internet is not limited by advoid. Traffic is not routed thru advoid.
+* Full speed access to the internet is not limited by advoid.
 * No delay because of content inspection.
 * Pageload speedup because of request minimizing.
 * No impact on HTTPS browsing.
