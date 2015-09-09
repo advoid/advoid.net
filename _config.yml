@@ -1,15 +1,15 @@
-title: advoid - avoid ads!
-email: info@advoid.net
+title: "advoid - avoid ads!"
+email: "info@advoid.net"
 description: "The device for blocking ads and speeding up all devices in your network." 
 baseurl: ""
 url: "http://advoid.net"
-twitter_username: advoid_
-github_username:  advoid
-paginate:      3
-paginate_path: "/news/page:num/"
-permalink:     /news/:year/:month/:day/:title/
+twitter_username: "advoid_"
+github_username: "advoid"
+paginate: 5
+paginate_path: "/news/page/:num/"
+permalink: "/news/:year/:month/:day/:title/"
 markdown: kramdown
 tocTopTag: h2
 anchorPrefix: ""
 showToggleButton: false
-contentsLabel: Table of contents
+contentsLabel: "Table of contents"
